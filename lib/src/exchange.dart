@@ -4,7 +4,7 @@ import 'dart:async';
 import 'dart:convert';
 
 import 'package:http/http.dart';
-import 'package:wallet_core/models/api.dart';
+import 'package:gostcoin_wallet_core/models/api.dart';
 
 class Exchange extends Api {
   String _base;

@@ -3,7 +3,7 @@ library graph;
 import 'dart:async';
 
 import 'package:graphql/client.dart';
-import 'package:wallet_core/src/queries.dart';
+import 'package:gostcoin_wallet_core/src/queries.dart';
 
 const String BASE_URL = 'https://graph.fuse.io/subgraphs/name/fuseio';
 

@@ -5,9 +5,9 @@ import 'dart:convert';
 import 'dart:io';
 
 import 'package:http/http.dart';
-import 'package:wallet_core/models/api.dart';
-import 'package:wallet_core/src/utils.dart';
-import 'package:wallet_core/src/web3.dart';
+import 'package:gostcoin_wallet_core/models/api.dart';
+import 'package:gostcoin_wallet_core/src/utils.dart';
+import 'package:gostcoin_wallet_core/src/web3.dart';
 
 const String _API_BASE_URL = 'https://studio-qa-ropsten.fusenet.io/api';
 const String _FUNDER_BASE_URL = 'https://funder-qa.fuse.io/api';

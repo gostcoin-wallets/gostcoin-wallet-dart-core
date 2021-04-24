@@ -2,7 +2,7 @@ import 'dart:async';
 import 'dart:math';
 
 import 'package:decimal/decimal.dart';
-import 'package:wallet_core/wallet_core.dart';
+import 'package:gostcoin_wallet_core/wallet_core.dart';
 
 Future<bool> approvalCallback() async {
   return true;

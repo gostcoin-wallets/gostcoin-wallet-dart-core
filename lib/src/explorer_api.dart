@@ -3,7 +3,7 @@ library explorer_api;
 import 'dart:async';
 
 import 'package:http/http.dart';
-import 'package:wallet_core/models/api.dart';
+import 'package:gostcoin_wallet_core/models/api.dart';
 
 class ExplorerApi extends Api {
   String _base;
